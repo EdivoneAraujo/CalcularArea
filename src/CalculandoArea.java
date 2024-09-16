@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class CalculadoraArea {
+public class CalculandoArea {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
